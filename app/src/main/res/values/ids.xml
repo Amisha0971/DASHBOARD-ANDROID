@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homeCard" type="id" />
+    <item name="settingCard" type="id" />
+    <item name="logoutCard" type="id" />
+    <item name="watchCard" type="id" />
+    <item name="phoneCard" type="id" />
+    <item name="searchCard" type="id" />
+</resources>
